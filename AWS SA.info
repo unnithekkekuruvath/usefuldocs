@@ -1,0 +1,7 @@
+Classic Ports to Know 
+22 - SSH - log into a linux instance
+21 - FTP - Upload files into a file share
+22 - STP - upload file using ssh
+80 - HTTP - access unsecured websites
+443 - HTTPS - access secured websites
+3389 - RDP - Log into a windows instance
